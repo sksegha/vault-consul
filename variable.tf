@@ -52,7 +52,7 @@ variable "vault_count" {
 }
 
 variable "route53" {
-  default = "k-us.code42.com"
+  default = "gastro.io"
   type    = string
 }
 
